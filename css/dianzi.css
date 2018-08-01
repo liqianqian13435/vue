@@ -1,0 +1,212 @@
+/*全局样式*/
+.w{
+	width:1000px;
+	margin:0 auto;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+
+
+/*头部链接样式*/
+.header{
+	width:100%;
+	height:30px;
+	border-bottom:1px solid #EAEAEA;
+}
+.link-list{
+	width:328px;
+	height:30px;
+	font:14px/30px 微软雅黑;
+	color:#AAAAAA;
+}
+.link-list li{
+	float:left;
+}	
+.link-list a{
+	padding:0 10px;
+}
+/*logo样式*/
+.logo{
+	height:40px;
+	margin-top:10px;
+	}
+.logo-right{
+	width:538px;
+}
+.logo-text{
+	width:420px;
+	height:38px;
+	margin-right:10px;
+	font:16px/38px 微软雅黑;
+}
+.logo-btn{
+	width:90px;
+	height:40px;
+	background:#129AEE;
+	border:0;
+	font:18px/40px 微软雅黑;
+	color:#fff;
+}
+/*导航样式*/
+.nav{
+	width:100%;
+	border-bottom:1px solid #CCCCCC;
+	height:51px;
+	margin-top:10px;
+}
+
+.nav-list li{
+	float:left;
+	font:18px/51px 微软雅黑;
+	border-bottom:2px solid transparents;
+}
+.nav-list li.active{                   
+	border-bottom:2px solid #129AEE;/*带有active的li设置为蓝色底线*/
+}
+.nav-list li.active a{
+	color:#129AEE;          /*带有active的a设置为蓝色*/
+}
+.nav-list li a{
+	display:block;
+	padding:0 20px;
+	
+}
+/*主体样式*/
+.main{
+	
+	margin-top:10px;
+}
+/*left样式*/
+.mian-z{
+	width:665px;
+}
+.z-one{
+	margin-bottom:10px;
+}
+.z-one img{
+	width:665px;
+}
+.two{
+	width:665px;
+	height:138px;
+	border-top:1px solid #CCCCCC;
+}
+.two a img{
+	margin-top:10px;
+	float:left;
+	margin-right:25px;
+
+}
+.two h3{
+	font:20px 微软雅黑;
+	padding:26px 0 0 0;
+}
+.two p{
+	padding:25px 0 0 0 ;
+	color:#666;
+}
+.two span{
+	padding:0 10px 0 0;
+}
+/*right样式*/
+.mian-y{
+	width:315px;
+	
+}
+.y-1{
+	width:315px;
+	height:333px;	
+}
+.y-top{
+	width:315px;
+	height:110px;
+	border-bottom:1px solid #CCCCCC;
+}
+.y-end{
+	border:0;
+}
+.y-top a img{
+	float:left;
+	margin:20px 20px 0 0;
+	}
+.y-top h3{
+	font:16px 微软雅黑;
+	line-height:26px;
+	padding:15px 0 5px 0;
+}
+.y-top p{
+	line-height:26px;
+}
+/*版块标题*/
+.title{
+	height:35px;
+	width:77px;
+	border-bottom:1px solid #222222;
+
+}
+.title h3{
+	font:18px 微软雅黑;
+}
+/*列表样式*/
+.title{
+	margin-top:10px;
+}
+.title-list li{
+	border-top:1px solid #F2F2F2;
+	line-height:36px;
+	font:12px/36px 微软雅黑 ;
+	
+}
+.green{
+	color:green;
+}
+.red{
+	color:red;
+}
+.organe{
+	color:#FF6087;
+}
+.title-list i{
+	font: italic 18px 微软雅黑;
+	padding-right:10px;
+}
+/*热门样式*/
+.y-buttom{
+	width:315px;
+	height:110px;
+	border-top:1px solid #CCCCCC;
+}
+.y-buttom a img{
+	float:left;
+	margin:20px 20px 0 0;
+	}
+.y-buttom h3{
+	font:16px 微软雅黑;
+	line-height:26px;
+	padding:15px 0 5px 0;
+}
+.y-buttom p{
+	line-height:26px;
+}
+/*底部样式*/
+.footer{
+	margin-top:20px;
+}
+.footer p{
+   line-height:28px;
+   text-align:center;
+   color:#666;
+}
+.footer .p1{
+	width:350px;
+	margin:0 auto;
+}
+.footer span{
+	float:left;
+	padding:0 4px 0 0;
+}
+
